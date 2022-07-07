@@ -4,6 +4,8 @@ burritos
 hamburgers
 mac and cheese
 pizza
+maple bar doughnuts
+ceral
 
 Movies
 ======
